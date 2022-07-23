@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Khaleel1Q
 - 👀 I’m interested in Web Designing and Development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khaleelmohammed0770@gmail.com
 
 <!---
